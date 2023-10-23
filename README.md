@@ -1,5 +1,5 @@
-# ResNet18-for-Public-Gas-Dataset
-The ResNet18 model was used for 72 metal oxide gas sensor datasets for 10 gases.
+# CNN-Models-for-Public-Gas-Dataset
+The ResNet18 and RepVGG models were used for 72 metal oxide gas sensor datasets for 10 gases.
 
 Dataset: Record 18,000 series of measurements from a chemical detection platform based on an array of 72 metal oxide gas sensors. Each measurement contains 72 time series recorded over a 260 second period, each time series captured at a sampling rate of 100 Hz (number of samples per second). The dataset also contains time, temperature and relative humidity information. The final generated dataset consisted of 75 time series consisting of 26,000 points.
 URL: https://archive.ics.uci.edu/ml/machine-learning-databases/00251/
