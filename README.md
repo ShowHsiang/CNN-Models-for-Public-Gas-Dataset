@@ -5,4 +5,4 @@ Dataset: Record 18,000 series of measurements from a chemical detection platform
 URL: https://archive.ics.uci.edu/ml/machine-learning-databases/00251/
 
 The gas dataset resistance values have been preprocessed as grey scale images. 
-URL: https://drive.google.com/drive/folders/1zllbDHENciQxBczonPjVeaREKX-vofG0?usp=share_link
+URL: [https://drive.google.com/drive/folders/1zllbDHENciQxBczonPjVeaREKX-vofG0?usp=share_link](https://drive.google.com/drive/folders/1zllbDHENciQxBczonPjVeaREKX-vofG0?usp=drive_link)
